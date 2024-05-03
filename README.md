@@ -1,5 +1,7 @@
 ## SOLID Principles
 
+![Cover](https://github.com/mman9our/SOLID_Principles/assets/72463762/0c6fc35e-4b5a-4249-ad7c-1cabd5b3352a)
+
 SOLID is an acronym that stands for:
 
 - `SRP`: Single Responsibility Principle (SRP): A class should have only one reason to change, meaning it should have only one responsibility or job.
